@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-<img src-"https://github-readme-stats.vercel.app/api?username=j-j-gajjar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=j-j-gajjar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
