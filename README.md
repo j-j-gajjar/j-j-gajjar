@@ -1,4 +1,4 @@
-## Hola, I'm [J-J-GAJJAR!](https://github.com/j-j-gajjar) 👋
+## HELLO, I'm [J-J-GAJJAR!](https://github.com/j-j-gajjar) 👋
 
 <!--
 **j-j-gajjar/j-j-gajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
