@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jay-gajjar-ab7696177/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_j_j_gajjar/)
+![](https://visitor-badge.glitch.me/badge?page_id=j-j-gajjar)
+
 
 <a href="https://github.com/j-j-gajjar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-j-gajjar&theme=dark&hide_langs_below=1" />
