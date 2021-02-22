@@ -1,5 +1,4 @@
-## HELLO Folks, I'm [J-J-GAJJAR!](https://github.com/j-j-gajjar) 👋
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm [J-J-GAJJAR!](https://github.com/j-j-gajjar) </h1>
 <!--
 **j-j-gajjar/j-j-gajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🤔 I’m looking for help with
@@ -7,6 +6,9 @@
 - 👯 I’m looking to collaborate on Github
 - 😄 Pronouns: He/His
 -->
+
+<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=j-j-gajjar" alt="thexichao" /> </p>
+
 
 Here are some ideas to get you started:
 
@@ -25,7 +27,6 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jay-gajjar-ab7696177/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_j_j_gajjar/)
-![](https://visitor-badge.glitch.me/badge?page_id=j-j-gajjar)
 
 
 <a href="https://github.com/j-j-gajjar">
