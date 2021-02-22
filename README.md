@@ -23,7 +23,14 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/bootstrap.png"></code> 
+<code><img height="20" src="https://github.com/tkswann2/tech-logos/blob/master/fullMean.png?raw=true"></code> 
+<code><img height="20" src="https://github.com/tkswann2/tech-logos/blob/master/firebase.png?raw=true"></code> 
+<code><img height="20" src="https://github.com/tkswann2/tech-logos/blob/master/github.png?raw=true"></code> 
+<code><img height="20" src="https://github.com/tkswann2/tech-logos/blob/master/html5.png?raw=true"></code> 
+<code><img height="20" src="https://github.com/tkswann2/tech-logos/blob/master/mongo.png?raw=true"></code> 
+<code><img height="20" src="https://github.com/tkswann2/tech-logos/blob/master/npm.png?raw=true"></code>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jay-gajjar-ab7696177/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_j_j_gajjar/)
