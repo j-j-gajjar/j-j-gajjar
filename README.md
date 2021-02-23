@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/bootstrap.png"></code> 
-<code><img height="20" src="https://github.com/tkswann2/tech-logos/blob/master/fullMean.png?raw=true"></code> 
 <code><img height="20" src="https://github.com/tkswann2/tech-logos/blob/master/firebase.png?raw=true"></code> 
 <code><img height="20" src="https://github.com/tkswann2/tech-logos/blob/master/github.png?raw=true"></code> 
 <code><img height="20" src="https://github.com/tkswann2/tech-logos/blob/master/html5.png?raw=true"></code> 
