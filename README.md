@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/j-j-gajjar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-j-gajjar&theme=dark&hide_langs_below=1" />
-</a>
+</a></br>
 <a href="https://github.com/j-j-gajjar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=j-j-gajjar&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
 </a>
