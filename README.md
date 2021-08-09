@@ -9,7 +9,7 @@
 - 💬 Ask me about  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 - ⚡ Fun fact: I spend almost 12 hours listening to songs everyday.
-
+<a href="https://github.com/j-j-gajjar" style="pointer-events: none; cursor: default;">
 <code><img alt="Flutter" title="Flutter" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img alt="dart" title="dart" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img alt="javascript" title="javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -27,6 +27,7 @@
 <code><img alt="Dialogflow" title="Dialogflow" height="20" src="https://camo.githubusercontent.com/d1760f34eedae70adfda61e72305cb0ef56fad2b2fa8511080744771a6204d26/68747470733a2f2f7374617469632e6469616c6f67666c6f772e636f6d2f636f6d6d6f6e2f66617669636f6e2e706e67"></code>
 <code><img alt="material.io" title="material.io" height="20" src="https://34epjf3lzxqsddc2k3n1oj77-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/material.io-icon.png"></code>
 <code><img alt="material-ui" title="material-ui" height="20" src="https://material-ui.com/static/logo.svg"></code>
+</a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fj-j-gajjar%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://jaygajjar.tk)
 
