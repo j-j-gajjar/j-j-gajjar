@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Jay </h1>
-<p align="center">Flutter And MERN Stack Developer</p>
+<p align="center">Flutter Developer And MERN Stack Developer</p>
 
 - 🔭 I’m currently working on Flutter Project
 - 🌱 I’m currently learning React-Native
@@ -8,7 +8,6 @@
 - 📫 How to reach me : [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jay-gajjar-04/) [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_j_j_gajjar/) 
 - 💬 Ask me about  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-- ⚡ Fun fact: I spend almost 12 hours listening to songs everyday.
 <a href="https://github.com/j-j-gajjar" style="pointer-events: none; cursor: default;">
 <code><img alt="Flutter" title="Flutter" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img alt="dart" title="dart" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
