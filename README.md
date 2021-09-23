@@ -27,13 +27,24 @@
 <code><img alt="material.io" title="material.io" height="20" src="https://34epjf3lzxqsddc2k3n1oj77-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/material.io-icon.png"></code>
 <code><img alt="material-ui" title="material-ui" height="20" src="https://material-ui.com/static/logo.svg"></code>
 </a>
+<hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fj-j-gajjar%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://jaygajjar.tk)
+
+
+<details>
+  <summary>Github Stats</summary>
+  <p align="center">
+  
+    
 
 
 [![repolist](https://github-readme-stats.vercel.app/api/top-langs/?username=j-j-gajjar&theme=dark&hide_langs_below=1)](https://github.com/j-j-gajjar) 
 [![stars](https://github-readme-stats.vercel.app/api?username=j-j-gajjar&show_icons=true&theme=dracula&line_height=27)](https://github.com/j-j-gajjar)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j-j-gajjar&theme=monokai)](https://github.com/j-j-gajjar) 
+  </p>
+</details>
+
 
 
 
