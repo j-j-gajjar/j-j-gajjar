@@ -27,7 +27,7 @@
 <code><img alt="material-ui" title="material-ui" height="25" src="https://mui.com/static/logo.svg"></code>
 <hr>
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=j-j-gajjar&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/j-j-gajjar)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=j-j-gajjar&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/j-j-gajjar)
 
 
 <br/>
@@ -46,8 +46,8 @@
 
 <br/>
 <p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-j-gajjar&theme=dark&hide_langs_below=1" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=j-j-gajjar&show_icons=true&theme=dracula&line_height=27" />
+  <img  src="https://github-readme-stats.zohan.tech/api/top-langs/?username=j-j-gajjar&theme=dark&hide_langs_below=1" />
+    <img width="49.5%" src="https://github-readme-stats.zohan.tech/api?username=j-j-gajjar&show_icons=true&theme=dracula&line_height=27" />
 </p>
 <br>
 
