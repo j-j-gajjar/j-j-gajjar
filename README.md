@@ -35,7 +35,7 @@
 ## Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![j-j-gajjar snake gif](https://github.com/j-j-gajjar/j-j-gajjar/blob/output/github-contribution-grid-snake.svg)   
+![j-j-gajjar snake gif](https://github.com/j-j-gajjar/j-j-gajjar/blob/output/github-contribution-grid-snake-dark.svg)   
 
 ### Show some ❤️ by starring some of the repositories!
 
