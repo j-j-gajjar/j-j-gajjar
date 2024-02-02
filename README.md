@@ -27,7 +27,7 @@
 <code><img alt="material-ui" title="material-ui" height="25" src="https://mui.com/static/logo.svg"></code>
 <hr>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=j-j-gajjar&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/j-j-gajjar)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=j-j-gajjar&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/j-j-gajjar)
 
 
 <br/>
