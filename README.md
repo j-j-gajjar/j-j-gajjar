@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Jay </h1>
-<p align="center">Flutter Developer And MERN Stack Developer</p>
+<p align="center"> Flutter | Python | Node.Js | React.Js </p>
 
 <p align='center'> 
   <a href="https://www.instagram.com/_j_j_gajjar/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>&nbsp;&nbsp;
