@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🚀 Flutter | Python | Node.js | React.js Developer
+  🚀 Flutter Developer
 </p>
 
 <p align="center">
